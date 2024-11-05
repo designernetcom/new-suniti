@@ -14130,9 +14130,13 @@ only screen and (min-width: 576px) and (max-width: 767px),
 
   .tp-footer-bottom-2 {
     padding: 20px 30px;
-    padding-bottom: 55px;
+    padding-bottom: 35px;
     text-align: center;
   }
+  .tp-btn {
+    font-size: 14px;
+  }
+ 
   .tp-video-spacing-5 {
     padding-top: 70px;
     padding-bottom: 100px;
